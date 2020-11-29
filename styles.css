@@ -1,9 +1,12 @@
 .coin{
-    height: 30px;
-    width: 30px;
+    height: 60px;
+    width: 60px;
     border-radius: 50%;
     border: solid 1px black;
     margin: 1rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 
 }
 

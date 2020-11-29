@@ -24,3 +24,7 @@ form.addEventListener('submit', function(e){
 
 
 })
+
+//form.addEventListener('coin', function(e){
+
+//})
