@@ -16,3 +16,7 @@ ul{
     flex-wrap: wrap;
     list-style: none;
 }
+
+.hidden{
+    display: none;
+}
